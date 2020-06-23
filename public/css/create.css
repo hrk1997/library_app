@@ -8,7 +8,7 @@
 body {
   padding-top:50px;
   color:#646464;
-  background-color:#efefef;
+  background-color:#222;
 }
 
 h1,h2,h3,.highlight,.navbar a,#masthead h4 {
@@ -24,7 +24,7 @@ footer {
   margin-top:40px;
   padding-top:40px;
   padding-bottom:40px;
-  background-color:#cecece;
+  background-color:rgb(56, 56, 56);
  
 }
 
