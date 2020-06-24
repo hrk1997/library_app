@@ -1,27 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
-html,body{
-background-image: url("/images/lib.jpg");
+html{
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
 font-family: 'Numans', sans-serif;
 }
-/* body{
-    background-image: url(/images/row.jpg);
-} */
+body{
+    background-color: #222;
+    background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
 
 .container{
 height: 100%;
 align-content: center;
+background-color: #222;
 }
 
 .card{
 height: 300px;
 margin-top: 100px;
-
-width: 300px;
-background-color: rgb(27, 26, 25) !important;
+width: 235px;
+background-color: #222 !important;
 margin-left:auto;
 margin-right: auto;
 }
@@ -40,6 +43,8 @@ cursor: pointer;
 .card-header h3{
 color: white;
 text-align: center;
+margin-left: -44px;
+padding-bottom: 14px;
 }
 
 .social_icon{
